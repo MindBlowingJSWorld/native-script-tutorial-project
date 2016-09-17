@@ -1,0 +1,17 @@
+@import url("~/platform.css");
+
+Page {
+  background-color: white;
+  font-size: 15;
+}
+
+TextField {
+  padding: 10;
+  margin: 4;
+  font-size: 13;
+}
+
+/*Button {
+  margin: 5;
+  font-size: 13;
+}*/
